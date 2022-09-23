@@ -7,4 +7,4 @@ Using [esp-web-tools](https://esphome.github.io/esp-web-tools) for quick install
 esp-web-tools is "open source" - no LICENSE file provided.
 [Github repo](https://github.com/esphome/esp-web-tools)
 
-esp-rfid is under [MIT LICESE](https://github.com/esprfid/esp-rfid/blob/stable/LICENSE)
+esp-rfid is under [MIT LICENSE](https://github.com/esprfid/esp-rfid/blob/stable/LICENSE)
